@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tekinuelp.github.io/tekinuelp.txt.gz
+Sitemap: https://tekinuelp.github.io/app/tekinuelp.txt.gz
+Sitemap: https://tekinuelp.github.io/assets/tekinuelp.txt.gz
+Sitemap: https://tekinuelp.github.io/css/tekinuelp.txt.gz
+Sitemap: https://tekinuelp.github.io/includes/tekinuelp.txt.gz
+Sitemap: https://tekinuelp.github.io/item/tekinuelp.txt.gz
+Sitemap: https://tekinuelp.github.io/src/tekinuelp.txt.gz
